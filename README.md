@@ -1,5 +1,4 @@
 My first program
-This is the first program in python
 # Hey Awal,please don't delete this program
 # Author Awal Bhuiyan              (These are single line comments)
 # This is Python Learning tutorial
